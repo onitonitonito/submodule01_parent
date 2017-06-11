@@ -1,0 +1,3 @@
+[submodule "submodule02_child"]
+	path = submodule02_child
+	url = https://github.com/onitonitonito/submodule02_child
